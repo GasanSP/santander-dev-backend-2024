@@ -30,7 +30,7 @@ dependencies {
 
 tasks.jar{
 	manifest {
-		attributes["Main-class"] = "me.dio.santander_dev_backend_2024.Application"
+		attributes["Main-Class"] = "me.dio.santander_dev_backend_2024.Application"
 	}
 }
 
